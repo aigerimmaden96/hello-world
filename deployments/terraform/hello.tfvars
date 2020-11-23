@@ -1,0 +1,6 @@
+credentials = "fuchicorp-service-account.json"
+google_bucket_name = "aigerim-maden-bucket"
+deployment_name = "common_tools"
+google_project_id = "triple-virtue-296319"
+google_domain_name = "aigerimmaden.com"
+deployment_environment = "stage"
